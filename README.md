@@ -18,7 +18,7 @@ WORKING IN 2023
 
 
 
-![nodejs](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.gabrieleromanato.com%2F5c37214980b3%2Fuploads%2F2019%2F12%2Fnodejs-logo-271181341.jpg&tbnid=2frX5kW2STwDlM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyghegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fgabrieleromanato.name%2Fnodejs-multiple-file-downloads-with-promises&docid=cCWs6KToHRhkPM&w=2000&h=1024&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyghegUIARCXAQ)
+![nodejs](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F454%2Fnodejs-new-pantone-white-512.png&tbnid=dtcbBxs7Z9UQPM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F1012817%2Fcode_development_logo_nodejs_icon&docid=NQDD4VW5Oq6Y9M&w=512&h=512&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ)
 
 NOTE: if you don't have nodejs installed in your pc, install it [here](https://nodejs.org)
 
