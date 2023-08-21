@@ -18,7 +18,7 @@ WORKING IN 2023
 
 
 
-![nodejs](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2022%2F07%2F1200px-Node.js_logo.svg.png&tbnid=1iRyuBnkLXqRAM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMygAegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fintroduction-to-nodejs%2F&docid=4E7DuTFk9IbnFM&w=1200&h=734&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMygAegQIARBQ)
+![nodejs](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.gabrieleromanato.com%2F5c37214980b3%2Fuploads%2F2019%2F12%2Fnodejs-logo-271181341.jpg&tbnid=2frX5kW2STwDlM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyghegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fgabrieleromanato.name%2Fnodejs-multiple-file-downloads-with-promises&docid=cCWs6KToHRhkPM&w=2000&h=1024&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyghegUIARCXAQ)
 
 NOTE: if you don't have nodejs installed in your pc, install it [here](https://nodejs.org)
 
