@@ -18,7 +18,7 @@ WORKING IN 2023
 
 
 
-![nodejs](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F454%2Fnodejs-new-pantone-white-512.png&tbnid=dtcbBxs7Z9UQPM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F1012817%2Fcode_development_logo_nodejs_icon&docid=NQDD4VW5Oq6Y9M&w=512&h=512&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ)
+![nodejs]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F454%2Fnodejs-new-pantone-white-512.png&tbnid=dtcbBxs7Z9UQPM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F1012817%2Fcode_development_logo_nodejs_icon&docid=NQDD4VW5Oq6Y9M&w=512&h=512&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyg5egUIARDMAQ](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180920%2Frvp%2Fkisspng-javascript-node-js-computer-icons-logo-application-prog-nodejs-svg-png-icon-free-download-437-44-5ba3cfbcdba2b6.0741288815374622048996.jpg&tbnid=RrJIu4Bht8w4pM&vet=12ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyhXegUIARCPAg..i&imgrefurl=https%3A%2F%2Fit.cleanpng.com%2Fpng-nntit5%2F&docid=eCfey6P_3VXZRM&w=900&h=1000&q=nodejs%20download&ved=2ahUKEwjWkdjh9-2AAxVKhqQKHSCRBNkQMyhXegUIARCPAg))
 
 NOTE: if you don't have nodejs installed in your pc, install it [here](https://nodejs.org)
 
